@@ -39,8 +39,8 @@ Este projeto foi desenvolvido como parte da disciplina de Estrutura de Dados 2 e
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://leetcode.com/problems/count-of-smaller-numbers-after-self/description">315. Count of Smaller Numbers After Self</a></td>
-      <td><a href="./315.c">315.c</a></td>
+      <td><a href="https://leetcode.com/problems/critical-connections-in-a-network">1192. Critical Connections in a Network</a></td>
+      <td><a href="./1192.c">1192.c</a></td>
       <td><a href="https://www.youtube.com/watch?v=9rY72SO57EM">Link</a></td>
     </tr>
   </tbody>
@@ -48,8 +48,8 @@ Este projeto foi desenvolvido como parte da disciplina de Estrutura de Dados 2 e
 
 </div>
 <div align="center">
-  <p><strong>Imagem 1 - Resolução do exercício 315</strong></p>
-  <img src="Screenshots/315.png" alt="Screenshot da resolução do exercício 315">
+  <p><strong>Imagem 1 - Resolução do exercício 1192</strong></p>
+  <img src="Screenshots/1192.png" alt="Screenshot da resolução do exercício 1192">
 </div>
 
 
@@ -67,8 +67,8 @@ Este projeto foi desenvolvido como parte da disciplina de Estrutura de Dados 2 e
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://leetcode.com/problems/balance-a-binary-search-tree/description">1382. Balance a Binary Search Tree</a></td>
-      <td><a href="./1382.c">1382.c</a></td>
+      <td><a href="https://leetcode.com/problems/is-graph-bipartite">785. Is Graph Bipartite?</a></td>
+      <td><a href="./785.c">785.c</a></td>
       <td><a href="https://www.youtube.com/watch?v=KIuGeF-VG5U">Link</a></td>
     </tr>   
   </tbody>
@@ -76,8 +76,8 @@ Este projeto foi desenvolvido como parte da disciplina de Estrutura de Dados 2 e
 
 </div>
 <div align="center">
-  <p><strong>Imagem 2 - Resolução do exercício 1382</strong></p>
-  <img src="Screenshots/1382.png" alt="Screenshot da resolução do exercício 1382">
+  <p><strong>Imagem 2 - Resolução do exercício 785</strong></p>
+  <img src="Screenshots/785.png" alt="Screenshot da resolução do exercício 785">
 </div>
 
 ---
