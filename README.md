@@ -108,7 +108,7 @@ Este projeto foi desenvolvido como parte da disciplina de Estrutura de Dados 2 e
 </div>
 <div align="center">
   <p><strong>Imagem 3 - Resolução do exercício 1028</strong></p>
-  <img src="Screenshots/1028.png" alt="Screenshot da resolução do exercício 1028">
+  <img src="./1028.png" alt="Screenshot da resolução do exercício 1028">
 </div>
 
 #### 🟡 Questão Média
