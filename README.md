@@ -96,7 +96,7 @@ Este projeto foi desenvolvido como parte da disciplina de Estrutura de Dados 2 e
   <tbody>
     <tr>
       <td><a href="https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/">1028. Recover a Tree From Preorder Traversal</a></td>
-      <td><a href="./1028.py">1028.py</a></td>       <td><a href="https://youtu.be/mub7dcKXI34">Link</a></td>
+      <td><a href="./1028.py">1028.py</a></td>       <td><a href="https://youtu.be/-rnPAZ0C8t4">Link</a></td>
     </tr>
   </tbody>
 </table>
@@ -123,7 +123,7 @@ Este projeto foi desenvolvido como parte da disciplina de Estrutura de Dados 2 e
       <td><a href="https://leetcode.com/problems/count-the-number-of-complete-components/description/?envType=problem-list-v2&envId=graph">2685. Count the Number of Complete Components
 </a></td>
       <td><a href="./2685.py">2685.py</a></td>
-      <td><a href="https://youtu.be/4GKkZGjB6tQ">Link</a></td>
+      <td><a href="https://youtu.be/mMPQ4Y01cAs">Link</a></td>
     </tr>
   </tbody>
 </table>
