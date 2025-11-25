@@ -21,7 +21,7 @@
 Este projeto foi desenvolvido como parte da disciplina de Estrutura de Dados 2 e reúne a resolução de diversos exercícios do <a href="https://leetcode.com/problemset/">Leetcode</a> envolvendo estruturas de dados e técnicas de algoritmos. As questões foram divididas entre os integrantes do grupo, de forma que o Gustavo resolveu 1 questão difícil e 1 de nível médio, enquanto o Genilson resolveu 1 questão difícil e 1 de nível médio. 
 </p>
 
-## Capturas de tela
+## Screenshots
 
 ### 👤 [Genilson Silva](https://github.com/GenilsonJrs)
 
@@ -47,9 +47,11 @@ Este projeto foi desenvolvido como parte da disciplina de Estrutura de Dados 2 e
 </table>
 
 </div>
-<div align="center">Resolução do exercício 1192</div>
-<img src="Screenshots/1192.png" alt="Screenshot da resolução do exercício 1192" />
-<br>
+<div align="center">
+  <p><strong>Imagem 1 - Resolução do exercício 1192</strong></p>
+  <img src="Screenshots/1192.png" alt="Screenshot da resolução do exercício 1192">
+</div>
+
 
 #### 🟡 Questão Média
 
@@ -73,9 +75,10 @@ Este projeto foi desenvolvido como parte da disciplina de Estrutura de Dados 2 e
 </table>
 
 </div>
-<div align="center">Resolução do exercício 785</div>
-<img src="Screenshots/785.png" alt="Screenshot da resolução do exercício 785" />
-<br>
+<div align="center">
+  <p><strong>Imagem 2 - Resolução do exercício 785</strong></p>
+  <img src="Screenshots/785.png" alt="Screenshot da resolução do exercício 785">
+</div>
 
 ---
 
@@ -96,16 +99,17 @@ Este projeto foi desenvolvido como parte da disciplina de Estrutura de Dados 2 e
   <tbody>
     <tr>
       <td><a href="https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/">1028. Recover a Tree From Preorder Traversal</a></td>
-      <td><a href="./1028.py">1028.py</a></td>
+      <td><a href="Screenshots/1028.py">1028.py</a></td>
       <td><a href="https://youtu.be/mub7dcKXI34">Link</a></td>
     </tr>
   </tbody>
 </table>
 
 </div>
-<div align="center">Resolução do exercício 1028</div>
-<img src="Screenshots/1373.png" alt="Screenshot da resolução do exercício 1028" />
-<br>
+<div align="center">
+  <p><strong>Imagem 3 - Resolução do exercício 1028</strong></p>
+  <img src="Screenshots/1373.png" alt="Screenshot da resolução do exercício 1028">
+</div>
 
 #### 🟡 Questão Média
 
@@ -129,9 +133,11 @@ Este projeto foi desenvolvido como parte da disciplina de Estrutura de Dados 2 e
   </tbody>
 </table>
 
-<div align="center">Resolução do exercício 2685</div>
-<img src="https://raw.githubusercontent.com/EDAII/Grafos_GG/main/Grafos_GG/Screenshots/2685.png" alt="Screenshot da resolução do exercício 2685" />
-<br>
+</div>
+<div align="center">
+  <p><strong>Imagem 4 - Resolução do exercício 2685</strong></p>
+  <img src="Screenshots/2685.png" alt="Screenshot da resolução do exercício 2685">
+</div>
 
 ---
 
