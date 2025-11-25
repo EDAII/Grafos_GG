@@ -136,7 +136,7 @@ Este projeto foi desenvolvido como parte da disciplina de Estrutura de Dados 2 e
 </div>
 <div align="center">
   <p><strong>Imagem 4 - Resolução do exercício 2685</strong></p>
-  <img src="Screenshots/2685.png" alt="Screenshot da resolução do exercício 2685">
+  <img src="../Screenshots/2685.png" alt="Screenshot da resolução do exercício 2685">
 </div>
 
 ---
