@@ -41,7 +41,7 @@ Este projeto foi desenvolvido como parte da disciplina de Estrutura de Dados 2 e
     <tr>
       <td><a href="https://leetcode.com/problems/critical-connections-in-a-network">1192. Critical Connections in a Network</a></td>
       <td><a href="./1192.c">1192.c</a></td>
-      <td><a href="https://www.youtube.com/watch?v=9rY72SO57EM">Link</a></td>
+      <td><a href="https://www.youtube.com/watch?v=E8dFOQRXf0w">Link</a></td>
     </tr>
   </tbody>
 </table>
@@ -67,7 +67,7 @@ Este projeto foi desenvolvido como parte da disciplina de Estrutura de Dados 2 e
     <tr>
       <td><a href="https://leetcode.com/problems/is-graph-bipartite">785. Is Graph Bipartite?</a></td>
       <td><a href="./785.c">785.c</a></td>
-      <td><a href="https://www.youtube.com/watch?v=KIuGeF-VG5U">Link</a></td>
+      <td><a href="https://www.youtube.com/watch?v=zdj1GMm8io4">Link</a></td>
     </tr>   
   </tbody>
 </table>
