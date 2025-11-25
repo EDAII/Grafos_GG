@@ -98,8 +98,8 @@ Este projeto foi desenvolvido como parte da disciplina de Estrutura de Dados 2 e
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/description/">1373. Maximum Sum BST in Binary Tree</a></td>
-      <td><a href="./1373.py">1373.py</a></td>
+      <td><a href="https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/">1028. Recover a Tree From Preorder Traversal</a></td>
+      <td><a href="./1028.py">1028.py</a></td>
       <td><a href="https://youtu.be/mub7dcKXI34">Link</a></td>
     </tr>
   </tbody>
@@ -107,8 +107,8 @@ Este projeto foi desenvolvido como parte da disciplina de Estrutura de Dados 2 e
 
 </div>
 <div align="center">
-  <p><strong>Imagem 3 - Resolução do exercício 1373</strong></p>
-  <img src="Screenshots/1373.png" alt="Screenshot da resolução do exercício 1373">
+  <p><strong>Imagem 3 - Resolução do exercício 1028</strong></p>
+  <img src="Screenshots/1373.png" alt="Screenshot da resolução do exercício 1028">
 </div>
 
 #### 🟡 Questão Média
