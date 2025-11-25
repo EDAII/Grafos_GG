@@ -47,12 +47,10 @@ Este projeto foi desenvolvido como parte da disciplina de Estrutura de Dados 2 e
 </table>
 
 </div>
-
 <div align="center">
-  <p><strong>Imagem 1 - Resolução do exercício XX</strong></p>
+  <p><strong>Imagem 1 - Resolução do exercício 315</strong></p>
+  <img src="Screenshots/315.png" alt="Screenshot da resolução do exercício 315">
 </div>
-
-![xx](Screenshots/315.png)
 
 
 #### 🟡 Questão Média
@@ -77,12 +75,10 @@ Este projeto foi desenvolvido como parte da disciplina de Estrutura de Dados 2 e
 </table>
 
 </div>
-
 <div align="center">
-  <p><strong>Imagem 2 - Resolução do exercício XX</strong></p>
+  <p><strong>Imagem 2 - Resolução do exercício 1382</strong></p>
+  <img src="Screenshots/1382.png" alt="Screenshot da resolução do exercício 1382">
 </div>
-
-![xx](Screenshots/1382.png)
 
 ---
 
@@ -110,12 +106,10 @@ Este projeto foi desenvolvido como parte da disciplina de Estrutura de Dados 2 e
 </table>
 
 </div>
-
 <div align="center">
   <p><strong>Imagem 3 - Resolução do exercício 1373</strong></p>
+  <img src="Screenshots/1373.png" alt="Screenshot da resolução do exercício 1373">
 </div>
-
-![xx](Screenshots/1373.png)
 
 #### 🟡 Questão Média
 
@@ -139,10 +133,10 @@ Este projeto foi desenvolvido como parte da disciplina de Estrutura de Dados 2 e
   </tbody>
 </table>
 
-**Imagem 4 - Resolução do exercício 2685**
-
-![2685](Screenshots/2685.png)
-
+</div>
+<div align="center">
+  <p><strong>Imagem 4 - Resolução do exercício 2685</strong></p>
+  <img src="Screenshots/2685.png" alt="Screenshot da resolução do exercício 2685">
 </div>
 
 ---
