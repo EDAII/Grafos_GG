@@ -131,7 +131,7 @@ Este projeto foi desenvolvido como parte da disciplina de Estrutura de Dados 2 e
   </thead>
   <tbody>
     <tr>
-      <td><a href="hhttps://leetcode.com/problems/count-the-number-of-complete-components/description/?envType=problem-list-v2&envId=graph">2685. Count the Number of Complete Components
+      <td><a href="https://leetcode.com/problems/count-the-number-of-complete-components/description/?envType=problem-list-v2&envId=graph">2685. Count the Number of Complete Components
 </a></td>
       <td><a href="./2685.py">2685.py</a></td>
       <td><a href="https://youtu.be/4GKkZGjB6tQ">Link</a></td>
@@ -149,16 +149,16 @@ Este projeto foi desenvolvido como parte da disciplina de Estrutura de Dados 2 e
 
 ---
 
-## Como usar o código no LeetCode
+## 🛠️ Como usar o código no LeetCode
 
 Este código foi desenvolvido para ser executado diretamente no **LeetCode**.
 
 ### Passos para usar:
 
-1.  **Copie o código** do arquivo.
-2.  **Cole o código no editor do LeetCode**.
-3.  **Submeta o código**. O LeetCode fornecerá as entradas automaticamente durante a execução.
-4.  **O LeetCode executará o código** com as entradas fornecidas e devolverá a resposta.
+1.  **Copie o código** do arquivo.
+2.  **Cole o código no editor do LeetCode**.
+3.  **Submeta o código**. O LeetCode fornecerá as entradas automaticamente durante a execução.
+4.  **O LeetCode executará o código** com as entradas fornecidas e devolverá a resposta.
 
 ### Detalhes adicionais:
 
