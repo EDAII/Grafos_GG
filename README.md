@@ -139,13 +139,11 @@ Este projeto foi desenvolvido como parte da disciplina de Estrutura de Dados 2 e
   </tbody>
 </table>
 
-</div>
-
-<div align="center">
-  <p><strong>Imagem 4 - Resolução do exercício 2685</strong></p>
-</div>
+**Imagem 4 - Resolução do exercício 2685**
 
 ![2685](Screenshots/2685.png)
+
+</div>
 
 ---
 
