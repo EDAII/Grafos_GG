@@ -129,9 +129,8 @@ Este projeto foi desenvolvido como parte da disciplina de Estrutura de Dados 2 e
   </tbody>
 </table>
 
-</div>
 <div align="center">Resolução do exercício 2685</div>
-<img src="/Screenshots/2685.png" alt="Screenshot da resolução do exercício 2685" />
+<img src="https://raw.githubusercontent.com/EDAII/Grafos_GG/main/Grafos_GG/Screenshots/2685.png" alt="Screenshot da resolução do exercício 2685" />
 <br>
 
 ---
