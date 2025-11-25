@@ -131,8 +131,9 @@ Este projeto foi desenvolvido como parte da disciplina de Estrutura de Dados 2 e
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://leetcode.com/problems/delete-node-in-a-bst/description/">450. Delete Node in a BST</a></td>
-      <td><a href="./450.py">450.py</a></td>
+      <td><a href="hhttps://leetcode.com/problems/count-the-number-of-complete-components/description/?envType=problem-list-v2&envId=graph">2685. Count the Number of Complete Components
+</a></td>
+      <td><a href="./2685.py">2685.py</a></td>
       <td><a href="https://youtu.be/4GKkZGjB6tQ">Link</a></td>
     </tr>
   </tbody>
@@ -141,10 +142,10 @@ Este projeto foi desenvolvido como parte da disciplina de Estrutura de Dados 2 e
 </div>
 
 <div align="center">
-  <p><strong>Imagem 4 - Resolução do exercício 450</strong></p>
+  <p><strong>Imagem 4 - Resolução do exercício 2685</strong></p>
 </div>
 
-![450](Screenshots/450.png)
+![450](Screenshots/2685.png)
 
 ---
 
